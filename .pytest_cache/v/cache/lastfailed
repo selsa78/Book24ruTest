@@ -1,0 +1,4 @@
+{
+  "Authorization.py::Authorization::test_authorization": true,
+  "Authorization2.py::Authorization2::test_Authorization2": true
+}

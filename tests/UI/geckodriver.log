@@ -1,0 +1,158 @@
+1548363227161	geckodriver	INFO	geckodriver 0.19.1
+1548363230435	geckodriver	INFO	Listening on 127.0.0.1:57271
+1559673353800	geckodriver	INFO	geckodriver 0.19.1
+1559673353822	geckodriver	INFO	Listening on 127.0.0.1:50636
+1570630045061	geckodriver	INFO	geckodriver 0.19.1
+1570630045076	geckodriver	INFO	Listening on 127.0.0.1:60256
+1570630048193	mozrunner::runner	INFO	Running command: "D:\\Mozilla\\firefox.exe" "-marionette" "-profile" "C:\\Users\\selsa\\AppData\\Local\\Temp\\rust_mozprofile.M1kvuu4XSmw3"
+1570630052540	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+1570630053771	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8456] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3908] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3908] WARNING: pipe error: 109: Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+1570630057511	Marionette	INFO	Listening on port 60267
+1570630057593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570630057650	Marionette	DEBUG	Register listener.js for window 4294967297
+1570630057758	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570630058499	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570630058500	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570630060071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://book24.ru/"
+1570630074975	geckodriver	INFO	geckodriver 0.19.1
+1570630074987	geckodriver	INFO	Listening on 127.0.0.1:60336
+1570630078073	mozrunner::runner	INFO	Running command: "D:\\Mozilla\\firefox.exe" "-marionette" "-profile" "C:\\Users\\selsa\\AppData\\Local\\Temp\\rust_mozprofile.AP9xWKlWXLZf"
+1570630078265	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+1570630078685	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+1570630080274	Marionette	INFO	Listening on port 60345
+1570630080589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570630080640	Marionette	DEBUG	Register listener.js for window 4294967297
+1570630080663	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570630081491	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570630081491	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570630083119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://book24.ru/"
+1570630084237	Marionette	DEBUG	Received DOM event "pageshow" for "https://book24.ru/"
+1570630086899	Marionette	DEBUG	Received DOM event "beforeunload" for "https://book24.ru/"
+1570630087571	Marionette	DEBUG	Received DOM event "pagehide" for "https://book24.ru/"
+1570630087574	Marionette	DEBUG	Received DOM event "unload" for "https://book24.ru/"
+1570630089011	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://book24.ru/register/"
+JavaScript error: https://book24.ru/register/, line 1: TypeError: digitalData.cart is undefined
+JavaScript error: https://dmp.eksmo.ru/js/book24.js?v=9, line 2: ReferenceError: recommendedEksmo is not defined
+1570630089568	Marionette	DEBUG	Received DOM event "pageshow" for "https://book24.ru/register/"
+[Parent 9780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6648] WARNING: 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 8352] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rovider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+1570630274196	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16500] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16500] WARNING: p1570630275693	Marionette	INFO	Listening on port 60603
+1570630276141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570630276194	Marionette	DEBUG	Register listener.js for window 4294967297
+1570630276224	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570630277010	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570630277011	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570630278479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://book24.ru/"
+1570630279896	Marionette	DEBUG	Received DOM event "pageshow" for "https://book24.ru/"
+1570630280320	Marionette	DEBUG	Received DOM event "beforeunload" for "https://book24.ru/"
+1570630281032	Marionette	DEBUG	Received DOM event "pagehide" for "https://book24.ru/"
+1570630281034	Marionette	DEBUG	Received DOM event "unload" for "https://book24.ru/"
+JavaScript error: https://book24.ru/register/, line 1: TypeError: digitalData.cart is undefined
+1570630282330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://book24.ru/register/"
+JavaScript error: https://dmp.eksmo.ru/js/book24.js?v=9, line 2: ReferenceError: recommendedEksmo is not defined
+1570630282665	Marionette	DEBUG	Received DOM event "pageshow" for "https://book24.ru/register/"
+1570630283072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 16064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6172] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6172] WARNING: pipe 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+omponent returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+1570630371244	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8572] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8572] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1570630372860	Marionette	INFO	Listening on port 60796
+1570630373048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570630373086	Marionette	DEBUG	Register listener.js for window 4294967297
+1570630373109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570630373929	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570630373929	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570630375283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://book24.ru/"
+[Parent 18532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1570630376548	Marionette	DEBUG	Received DOM event "pageshow" for "https://book24.ru/"
+1570630376979	Marionette	DEBUG	Received DOM event "beforeunload" for "https://book24.ru/"
+1570630377795	Marionette	DEBUG	Received DOM event "pagehide" for "https://book24.ru/"
+1570630377797	Marionette	DEBUG	Received DOM event "unload" for "https://book24.ru/"
+1570630378301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1570630378302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+JavaScript error: https://book24.ru/register/, line 1: TypeError: digitalData.cart is undefined
+1570630379159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://book24.ru/register/"
+JavaScript error: https://dmp.eksmo.ru/js/book24.js?v=9, line 2: ReferenceError: recommendedEksmo is not defined
+1570630379538	Marionette	DEBUG	Received DOM event "pageshow" for "https://book24.ru/register/"
+1570630379963	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 6012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6012] WARNING: pipe error: 109: file z:/bu[Child 11920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11920] WARN*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570630576406	geckodriver	INFO	geckodriver 0.19.1
+1570630576413	geckodriver	INFO	Listening on 127.0.0.1:61041
+1570630579524	mozrunner::runner	INFO	Running command: "D:\\Mozilla\\firefox.exe" "-marionette" "-profile" "C:\\Users\\selsa\\AppData\\Local\\Temp\\rust_mozprofile.kROc4dEd7Owc"
+1570630579729	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Mozilla/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+1570630580115	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\selsa\AppData\Local\openvr\openvrpaths.vrpath
+1570630581578	Marionette	INFO	Listening on port 61050
+1570630582042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570630582085	Marionette	DEBUG	Register listener.js for window 4294967297
+1570630582116	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570630582734	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570630582734	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570630583988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://book24.ru/"
+[Parent 10768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1570630585191	Marionette	DEBUG	Received DOM event "pageshow" for "https://book24.ru/"
+1570630585583	Marionette	DEBUG	Received DOM event "beforeunload" for "https://book24.ru/"
+1570630586072	Marionette	DEBUG	Received DOM event "pagehide" for "https://book24.ru/"
+1570630586076	Marionette	DEBUG	Received DOM event "unload" for "https://book24.ru/"
+JavaScript error: https://book24.ru/register/, line 1: TypeError: digitalData.cart is undefined
+1570630587194	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://book24.ru/register/"
+JavaScript error: https://dmp.eksmo.ru/js/book24.js?v=9, line 2: ReferenceError: recommendedEksmo is not defined
+1570630587624	Marionette	DEBUG	Received DOM event "pageshow" for "https://book24.ru/register/"
+1570630588009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570630588490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570630589443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570630589843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570630590260	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 10768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
